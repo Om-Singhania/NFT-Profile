@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.392" height="52.253" viewBox="0 0 52.392 52.253">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.115" y1="0.903" x2="0.915" y2="0.103" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2ad19d"/>
+      <stop offset="0.142" stop-color="#2ac9ab"/>
+      <stop offset="0.489" stop-color="#29b9c9"/>
+      <stop offset="0.788" stop-color="#29afdb"/>
+      <stop offset="1" stop-color="#29abe2"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_20973" data-name="Group 20973" transform="translate(0.139)">
+    <path id="Path_46750" data-name="Path 46750" d="M49.858,10.668H23.731A13.063,13.063,0,0,0,10.668,23.731V49.858A13.063,13.063,0,0,0,23.731,62.921H49.858A13.063,13.063,0,0,0,62.921,49.858V23.731A13.063,13.063,0,0,0,49.858,10.668Z" transform="translate(-10.668 -10.668)" fill="url(#linear-gradient)"/>
+    <g id="Group_20972" data-name="Group 20972" transform="translate(11.267 11.267)">
+      <g id="Group_20971" data-name="Group 20971">
+        <ellipse id="Ellipse_57" data-name="Ellipse 57" cx="14.761" cy="14.761" rx="14.761" ry="14.761" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0.5"/>
+      </g>
+      <g id="Group_20970" data-name="Group 20970" transform="translate(14.874 6.63)">
+        <path id="Path_2227" data-name="Path 2227" d="M3080.049,468.311v9.2h9.236" transform="translate(-3080.049 -468.311)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2" opacity="0.9"/>
+      </g>
+    </g>
+    <rect id="Rectangle_1765" data-name="Rectangle 1765" width="52.333" height="52.25" rx="13" transform="translate(-0.139 0.003)" style="mix-blend-mode: color;isolation: isolate"/>
+  </g>
+</svg>
